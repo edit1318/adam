@@ -1,2 +1,6 @@
-[InternetShortcut]
+[InternetShortcut]git remote add origin https://github.com/bobsmith/bobsmith.github.io.git
+git add --all
+git commit -m 'adding my files to my repository'
+git push -u origin master
+
 URL=http://diendanbaclieu.net/diendan/forumdisplay.php?192-Phan-mem-chon-loc
